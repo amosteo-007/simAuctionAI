@@ -7,7 +7,7 @@ A multi-stage, multi-mechanism auction tournament engine for studying how autono
 ## Setup
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/amosteo-007/simAuctionAI/tree/main
 cd cca-auction-sim
 npm install
 npm test          # 61 tests
